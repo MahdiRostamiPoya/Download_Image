@@ -40,4 +40,4 @@ def search_download_image(text:str=None):
     except exceptions.Timeout as timeout:
         print(f"Timeout Error\nError: {timeout}")
 
-search_download_image("game")
+search_download_image("python")
