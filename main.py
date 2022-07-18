@@ -1,19 +1,3 @@
-"""
-download image from google with python -> Web Scraping
-
-libraries:
-    requests -> pip3 install requests
-    bs4 -> pip3 install BeautifulSoup4
-
-telegram channel:
-    @MTQD_1400
-
-telegram group:
-    @MTQD_1400_Group
-
-MahdiQD :)
-"""
-
 import requests
 from requests import get, exceptions
 from bs4 import BeautifulSoup
